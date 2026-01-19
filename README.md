@@ -46,3 +46,5 @@ Clear, bold results help children verify their math problems easily.
 
 ## 📝 License
 This project is open-source and free to use for educational purposes.
+
+# [🍓 Click here to use the Strawberry Calculator!](https://dhyanii-analytics.github.io/strawberry-calculator/)
